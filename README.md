@@ -1,4 +1,4 @@
-#everblog-contrib-gravatar
+#everblog-plugin-gravatar
 
 a plugin for everblog to show gravatar
 

@@ -1,0 +1,27 @@
+{
+  "name": "everblog-contrib-gravatar",
+  "version": "0.0.1",
+  "description": "everblog gravatar plugin",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zhuangya/everblog-contrib-gravatar.git"
+  },
+  "keywords": [
+    "everblog",
+    "gravatar"
+  ],
+  "author": "Ya Zhuang <zhuangya@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zhuangya/everblog-contrib-gravatar/issues"
+  },
+  "homepage": "https://github.com/zhuangya/everblog-contrib-gravatar#readme",
+  "dependencies": {
+    "gravatar": "^1.4.0",
+    "ya-gravatar": "0.0.3"
+  }
+}
