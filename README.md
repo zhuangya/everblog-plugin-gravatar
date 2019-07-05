@@ -1,5 +1,7 @@
 #everblog-plugin-gravatar
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/zhuangya/everblog-plugin-gravatar.svg)](https://greenkeeper.io/)
+
 a plugin for everblog to show gravatar
 
 ---
